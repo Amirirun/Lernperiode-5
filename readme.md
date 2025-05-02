@@ -6,6 +6,9 @@
 
 Wie können Sie Ihr Projekt aus der Lernperiode 4 um eine Persistenz-Lösung erweitern? Was gibt es zu speichern, was für Tabellen brauchen Sie und wie muss der bestehende Code mit diesen interagieren?
 
+Um mein Projekt aus der Lernperiode 4 mit einer Datenbank zu erweitern, plane ich, die Spielstände dauerhaft in einer Datenbank zu speichern. So kann man später sehen, wer wann gewonnen hat und wenn man mal zwischendurch unterbrechen muss, kann man danach einfach weiter spielen.
+
+
 > ...
 
 ## 2.5
