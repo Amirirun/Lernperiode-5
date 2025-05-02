@@ -14,18 +14,18 @@ Ich möchte die Anleitung in meinem Tic-Tac-Toe-Projekt so erweitern, dass sie m
 
 ## 2.5
 
-- [ ] Datenbank erstellen
-- [ ] Tabelle erstellen
+- [x] Datenbank erstellen
+- [x] Tabelle erstellen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die SQL Datenbank für mein Projekt erstellt. Ich habe mich schonmal Informiert wie man das C Sharp Projekt mit der SQL Datenbank verbinden kann. Dann habe ich auch eine Tabelle für die verschiedenen Sprachen erstellt.
 
-☝️ Vergessen Sie nicht, Ihr bestehendes Projekt und die Neuerungen von heute hochzuladen. Beschreiben Sie eindeutig, was heute an Code dazugekommen ist.
+
 
 ## 9.5 Kernfunktionalität
 
-- [ ] ... (dieses AP sollte zur Hälfte offline, also ohne Laptop zu bearbeiten sein — beispielsweise ein Datenmodell?)
-- [ ] ...
-- [ ] ...
+- [ ] Sprachen für Projekt überlegen
+- [ ] C Sharp mit SQL verbinden
+- [ ] Erste Sprache einfügen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
