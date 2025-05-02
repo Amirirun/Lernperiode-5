@@ -14,8 +14,8 @@ Ich möchte die Anleitung in meinem Tic-Tac-Toe-Projekt so erweitern, dass sie m
 
 ## 2.5
 
-- [ ] ...
-- [ ] ...
+- [ ] Datenbank erstellen
+- [ ] Tabelle erstellen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
