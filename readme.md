@@ -14,8 +14,8 @@ Ich möchte die Anleitung in meinem Tic-Tac-Toe-Projekt so erweitern, dass sie m
 
 ## 2.5
 
-- [x] Datenbank erstellen
-- [x] Tabelle erstellen
+- [x] Überlegen was ich mit einer Datenbank verbinden kann
+- [x] Neues Forms mit den verschiedenen sprachen erstellt
 
 Heute habe ich die SQL Datenbank für mein Projekt erstellt. Ich habe mich schonmal Informiert wie man das C Sharp Projekt mit der SQL Datenbank verbinden kann. Dann habe ich auch eine Tabelle für die verschiedenen Sprachen erstellt.
 
@@ -23,20 +23,18 @@ Heute habe ich die SQL Datenbank für mein Projekt erstellt. Ich habe mich schon
 
 ## 9.5 Kernfunktionalität
 
-- [ ] Sprachen für Projekt überlegen
-- [ ] C Sharp mit SQL verbinden
-- [ ] Erste Sprache einfügen
-
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+- [x] Datenbank erstellen
+- [x] Tabellen erstellen 
+- [x] Mit insert into Text in Tabellen einfügen
+Heute habe ich habe eine Datenbank erstellt und darin eine Tabelle für Anleitungstexte in verschiedenen Sprachen angelegt. Die Inhalte habe ich mit „INSERT INTO“ eingefügt. So kann ich später die Sprache über Buttons auswählen und der passende Text wird angezeigt – ganz ohne den Code jedes Mal zu ändern.
+  
 
 ## 16.5 Kernfunktionalität und Ausbau
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Code für die jeweiligen Sprachen erstellen.
+- [ ] Informieren wie mat Windforms mit Datenbank im Code verbindet.
+- [ ] Code mit Datenbank verbinden
+- [ ] Testen ob es funktioniert
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
