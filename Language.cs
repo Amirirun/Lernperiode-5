@@ -10,20 +10,26 @@ using System.Windows.Forms;
 
 namespace Gamingconsole
 {
-    public partial class Anleitung : Form
+    public partial class Language : Form
     {
-        public Anleitung()
+        public Language()
         {
             InitializeComponent();
-
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Auswahl auswahlForm = new Auswahl(); 
-            auswahlForm.Show(); 
-            this.Close(); 
+          
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

@@ -31,9 +31,9 @@ namespace Gamingconsole
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Anleitung anleitungForm = new Anleitung(); 
-            anleitungForm.Show(); 
-            this.Hide(); 
+            Language languageForm = new Language();  
+            languageForm.Show();
+            this.Hide();
 
         }
     }

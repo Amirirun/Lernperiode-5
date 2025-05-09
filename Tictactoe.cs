@@ -216,7 +216,7 @@ namespace Gamingconsole
 
       
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Tictactoe_Load(object sender, EventArgs e)
         {
             OnNewGame();
         }
