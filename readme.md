@@ -31,7 +31,7 @@ Heute habe ich habe eine Datenbank erstellt und darin eine Tabelle für Anleitun
 
 ## 16.5 Kernfunktionalität und Ausbau
 
-- [ ] Code für die verschiedenen Sprachen schreiben (Deutsch, Englisch usw.)
+- [ ] Code für die verschiedenen Sprachen schreiben 
 - [ ]  Nachschauen, wie man Windows Forms mit einer Datenbank verbindet
 - [ ] Die Datenbank im Code einbauen und die Verbindung testen
 - [ ] Schauen, ob alles klappt und ob man Daten speichern/lesen kann
