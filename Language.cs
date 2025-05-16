@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.Data.Sqlite;
 
 namespace Gamingconsole
 {
@@ -17,19 +18,31 @@ namespace Gamingconsole
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e) // Deutsch
         {
-          
+            Spracheinstellung.GewählteSprache = "de";
+            Anleitung anleitungForm = new Anleitung();
+            anleitungForm.Show();
+            this.Hide(); 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e) // Englisch
         {
-            
+            Spracheinstellung.GewählteSprache = "en";
+            Anleitung anleitungForm = new Anleitung();
+            anleitungForm.Show();
+            this.Hide();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e) // Italienisch
         {
-            
+            Spracheinstellung.GewählteSprache = "it";
+            Anleitung anleitungForm = new Anleitung();
+            anleitungForm.Show();
+            this.Hide(); // Versteckt das aktuelle Fenster
         }
+
+      
+
     }
 }
