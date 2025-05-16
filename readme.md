@@ -31,10 +31,10 @@ Heute habe ich habe eine Datenbank erstellt und darin eine Tabelle für Anleitun
 
 ## 16.5 Kernfunktionalität und Ausbau
 
-- [ ] Code für die jeweiligen Sprachen erstellen.
-- [ ] Informieren wie mat Windforms mit Datenbank im Code verbindet.
-- [ ] Code mit Datenbank verbinden
-- [ ] Testen ob es funktioniert
+- [ ] Code für die verschiedenen Sprachen schreiben (Deutsch, Englisch usw.)
+- [ ]  Nachschauen, wie man Windows Forms mit einer Datenbank verbindet
+- [ ] Die Datenbank im Code einbauen und die Verbindung testen
+- [ ] Schauen, ob alles klappt und ob man Daten speichern/lesen kann
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
