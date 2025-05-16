@@ -36,9 +36,8 @@ Heute habe ich habe eine Datenbank erstellt und darin eine Tabelle für Anleitun
 - [ ] Die Datenbank im Code einbauen und die Verbindung testen
 - [ ] Schauen, ob alles klappt und ob man Daten speichern/lesen kann
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich ein Sprachwahlmenü in meinem Windows-Forms-Projekt erstellt. Je nach Auswahl öffnet sich ein neues Formular mit einer Anleitung. Die Texte werden aus einer SQLite-Datenbank geladen. Ich habe gelernt, wie man Events, Datenbankverbindungen und Sprachlogik korrekt in C# umsetzt.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## 23.5 Abschluss
 
