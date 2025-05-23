@@ -31,10 +31,10 @@ Heute habe ich habe eine Datenbank erstellt und darin eine Tabelle für Anleitun
 
 ## 16.5 Kernfunktionalität und Ausbau
 
-- [ ] Code für die verschiedenen Sprachen schreiben 
-- [ ]  Nachschauen, wie man Windows Forms mit einer Datenbank verbindet
-- [ ] Die Datenbank im Code einbauen und die Verbindung testen
-- [ ] Schauen, ob alles klappt und ob man Daten speichern/lesen kann
+- [x] Code für die verschiedenen Sprachen schreiben 
+- [x]  Nachschauen, wie man Windows Forms mit einer Datenbank verbindet
+- [x] Die Datenbank im Code einbauen und die Verbindung testen
+- [x] Schauen, ob alles klappt und ob man Daten speichern/lesen kann
 
 Heute habe ich ein Sprachwahlmenü in meinem Windows-Forms-Projekt erstellt. Je nach Auswahl öffnet sich ein neues Formular mit einer Anleitung. Die Texte werden aus einer SQLite-Datenbank geladen. Ich habe gelernt, wie man Events, Datenbankverbindungen und Sprachlogik korrekt in C# umsetzt.
 
@@ -43,18 +43,18 @@ Heute habe ich ein Sprachwahlmenü in meinem Windows-Forms-Projekt erstellt. Je 
 
 - [x] Beim letzten Test meines Projekts funktionierte die Zurück-Taste (Back-Button) in der Anleitung nicht richtig. Deshalb möchte ich diesen Fehler beheben und 
       sicherstellen, dass man wieder zuverlässig ins Auswahlmenü zurückkehren kann.
-- [ ] Projekt ausbessern und alles säubern.
-- [ ] Reflexion über Ihre Arbeitsweise
-- [ ] Beschreibung des fertigen Projekts mit .gif etc.
+- [x] Projekt ausbessern und alles säubern.
+- [x] Reflexion über Ihre Arbeitsweise
+- [x] Beschreibung des fertigen Projekts mit .gif etc.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich die Back-Funktion in meinem Projekt repariert, sodass man zuverlässig vom Anleitungsfenster zurück ins Auswahlmenü gelangt. Ich habe das Projekt aufgeräumt, Fehler behoben und die Spracheinstellungen mit Datenbankverbindung fertiggestellt. Zum Schluss habe ich mein Projekt beschrieben und meine Arbeit reflektiert.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
 ## Fertiges Projekt
 
-✍️ Beschreiben Sie hier, wie Ihr Projekt am Ende aussieht, und fügen Sie mindestens ein .gif ein.
+Mein Projekt ist eine einfache Spielkonsole mit Sprachauswahl und Spielanleitung. Der Benutzer wählt zuerst die Sprache (Deutsch, Englisch oder Italienisch), woraufhin eine Anleitung mit einer Erklärung zum Spiel angezeigt wird. Die Inhalte kommen direkt aus einer SQLite-Datenbank. Ein Back-Button ermöglicht es, zur Sprachauswahl zurückzukehren. Das Projekt zeigt, wie man mit Datenbanken, Formularen und Benutzerinteraktion arbeitet.
 
 ## Reflexion
 
-✍️ Was ging gut, was ging weniger gut? Was haben Sie gelernt, und was würden Sie bei der nächsten Lernperiode versuchen besser zu machen? Fassen Sie auch einen übergeordneten Vorsatz für Ihr nächstes Jahr im Lernatelier (100 bis 200 Wörter).
+Gut lief, dass ich die Sprachauswahl und Datenbankabfrage umsetzen konnte. Weniger gut war, dass einige Fehler im Designer lange unklar waren. Ich habe gelernt, wie wichtig sauberes Debugging, Geduld und systematisches Vorgehen sind. Nächstes Mal möchte ich früher eine saubere Struktur planen. Für die nächste Lernphase nehme ich mir vor, die Navigation zwischen Forms zu vertiefen und Fehler schneller gezielt zu beheben.
+
