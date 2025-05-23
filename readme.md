@@ -54,6 +54,9 @@ Heute habe ich die Back-Funktion in meinem Projekt repariert, sodass man zuverl�
 
 Mein Projekt ist eine einfache Spielkonsole mit Sprachauswahl und Spielanleitung. Der Benutzer wählt zuerst die Sprache (Deutsch, Englisch oder Italienisch), woraufhin eine Anleitung mit einer Erklärung zum Spiel angezeigt wird. Die Inhalte kommen direkt aus einer SQLite-Datenbank. Ein Back-Button ermöglicht es, zur Sprachauswahl zurückzukehren. Das Projekt zeigt, wie man mit Datenbanken, Formularen und Benutzerinteraktion arbeitet.
 
+![Unbenanntes Video – Mit Clipchamp erstellt (2)](https://github.com/user-attachments/assets/b8e33b03-36df-4345-8170-e69f085641e7)
+
+
 ## Reflexion
 
 Gut lief, dass ich die Sprachauswahl und Datenbankabfrage umsetzen konnte. Weniger gut war, dass einige Fehler im Designer lange unklar waren. Ich habe gelernt, wie wichtig sauberes Debugging, Geduld und systematisches Vorgehen sind. Nächstes Mal möchte ich früher eine saubere Struktur planen. Für die nächste Lernphase nehme ich mir vor, die Navigation zwischen Forms zu vertiefen und Fehler schneller gezielt zu beheben.
