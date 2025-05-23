@@ -9,16 +9,12 @@ Wie können Sie Ihr Projekt aus der Lernperiode 4 um eine Persistenz-Lösung erw
 Ich möchte die Anleitung in meinem Tic-Tac-Toe-Projekt so erweitern, dass sie mehrere Sprachen unterstützt. Statt die Texte direkt im Code zu speichern, lade ich sie zukünftig aus einer Datenbank. So kann ich die Anleitung je nach Sprache dynamisch anzeigen lassen. Das macht das Projekt übersichtlicher und ich kann später einfach neue Sprachen hinzufügen, ohne etwas am Code zu ändern.
 
 
-
-> ...
-
 ## 2.5
 
 - [x] Überlegen was ich mit einer Datenbank verbinden kann
 - [x] Neues Forms mit den verschiedenen sprachen erstellt
 
 Heute habe ich die SQL Datenbank für mein Projekt erstellt. Ich habe mich schonmal Informiert wie man das C Sharp Projekt mit der SQL Datenbank verbinden kann. Dann habe ich auch eine Tabelle für die verschiedenen Sprachen erstellt.
-
 
 
 ## 9.5 Kernfunktionalität
