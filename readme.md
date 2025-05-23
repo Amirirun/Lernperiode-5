@@ -41,9 +41,9 @@ Heute habe ich ein Sprachwahlmenü in meinem Windows-Forms-Projekt erstellt. Je 
 
 ## 23.5 Abschluss
 
-- [ ] Beim letzten Test meines Projekts funktionierte die Zurück-Taste (Back-Button) in der Anleitung nicht richtig. Deshalb möchte ich diesen Fehler beheben und 
+- [x] Beim letzten Test meines Projekts funktionierte die Zurück-Taste (Back-Button) in der Anleitung nicht richtig. Deshalb möchte ich diesen Fehler beheben und 
       sicherstellen, dass man wieder zuverlässig ins Auswahlmenü zurückkehren kann.
-- [ ] ... (falls Ihnen nichts einfällt: Können Sie mit einem PowerShell-Skript von Ihrer Datenbank regelmäßig ein *backup* erstellen?)
+- [ ] Projekt ausbessern und alles säubern.
 - [ ] Reflexion über Ihre Arbeitsweise
 - [ ] Beschreibung des fertigen Projekts mit .gif etc.
 
