@@ -18,7 +18,7 @@ namespace Gamingconsole
         public Anleitung()
         {
             InitializeComponent();
-            this.Load += Anleitung_Load; 
+            this.Load += Anleitung_Load;
         }
 
         private void Anleitung_Load(object? sender, EventArgs e)
@@ -47,6 +47,13 @@ namespace Gamingconsole
                     }
                 }
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Auswahl auswahlForm = new Auswahl(); 
+            auswahlForm.Show();                  
+            this.Close();                        
         }
     }
 }

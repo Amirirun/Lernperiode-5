@@ -55,7 +55,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(244, 331);
+            button3.Location = new Point(244, 338);
             button3.Name = "button3";
             button3.Size = new Size(225, 69);
             button3.TabIndex = 2;
@@ -67,12 +67,13 @@
             // 
             AutoScaleDimensions = new SizeF(20F, 48F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(916, 595);
             Controls.Add(button3);
             Controls.Add(button2);
             Controls.Add(button1);
             Name = "Language";
             Text = "Language";
+            Load += Language_Load;
             ResumeLayout(false);
         }
 

@@ -23,7 +23,7 @@ namespace Gamingconsole
             Spracheinstellung.GewählteSprache = "de";
             Anleitung anleitungForm = new Anleitung();
             anleitungForm.Show();
-            this.Hide(); 
+            this.Hide();
         }
 
         private void button2_Click(object sender, EventArgs e) // Englisch
@@ -42,7 +42,9 @@ namespace Gamingconsole
             this.Hide(); // Versteckt das aktuelle Fenster
         }
 
-      
+        private void Language_Load(object sender, EventArgs e)
+        {
 
+        }
     }
 }
